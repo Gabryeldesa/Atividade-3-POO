@@ -1,4 +1,5 @@
 package org.model;
+
 public class Ingresso {
     private long id;
     private String meia;

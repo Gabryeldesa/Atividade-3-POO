@@ -1,5 +1,4 @@
 import org.model.*;
-
 import java.time.LocalDateTime;
 
 public class Main {
